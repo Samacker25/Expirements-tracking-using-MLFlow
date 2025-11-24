@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/587371127099324614/3098447aad9c456c8b8c0863bd852b22/artifacts
+end_time: 1763997511190
+entry_point_name: ''
+experiment_id: '587371127099324614'
+lifecycle_stage: active
+run_id: 3098447aad9c456c8b8c0863bd852b22
+run_name: adaptable-elk-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763997501205
+status: 3
+tags: []
+user_id: SOUMEN

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/219320908244566975/3f2aaacfe85741ac873d7a0a5ca06a28/artifacts
+end_time: 1763997196270
+entry_point_name: ''
+experiment_id: '219320908244566975'
+lifecycle_stage: active
+run_id: 3f2aaacfe85741ac873d7a0a5ca06a28
+run_name: rogue-perch-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763997179708
+status: 3
+tags: []
+user_id: SOUMEN
