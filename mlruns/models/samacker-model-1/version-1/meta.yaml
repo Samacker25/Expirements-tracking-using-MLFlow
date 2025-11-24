@@ -1,0 +1,15 @@
+creation_timestamp: 1764007797289
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764007797289
+model_id: m-e624bd8f1cc64dc1b2f07a30df78dcf5
+name: samacker-model-1
+run_id: 4d47a02bc447461789dc643f5eb1726b
+run_link: ''
+source: models:/m-e624bd8f1cc64dc1b2f07a30df78dcf5
+status: READY
+status_message: null
+storage_location: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/models/m-e624bd8f1cc64dc1b2f07a30df78dcf5/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/75e2fd02aea54684b804d9119e901f71/artifacts
+end_time: 1764007271811
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 75e2fd02aea54684b804d9119e901f71
+run_name: sincere-shrimp-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007271771
+status: 3
+tags: []
+user_id: SOUMEN

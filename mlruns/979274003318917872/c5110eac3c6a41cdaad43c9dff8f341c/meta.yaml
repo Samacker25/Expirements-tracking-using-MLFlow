@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/c5110eac3c6a41cdaad43c9dff8f341c/artifacts
+end_time: 1764007270373
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: c5110eac3c6a41cdaad43c9dff8f341c
+run_name: luminous-ray-15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007270259
+status: 3
+tags: []
+user_id: SOUMEN

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/e3eefea1cc51489eb78189f8b79758fd/artifacts
+end_time: 1764006788429
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: e3eefea1cc51489eb78189f8b79758fd
+run_name: serious-toad-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764006788404
+status: 3
+tags: []
+user_id: SOUMEN

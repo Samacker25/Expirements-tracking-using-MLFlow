@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/eb719e29b33f4956b0257d91167df425/artifacts
+end_time: 1764006788590
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: eb719e29b33f4956b0257d91167df425
+run_name: secretive-smelt-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764006788564
+status: 3
+tags: []
+user_id: SOUMEN

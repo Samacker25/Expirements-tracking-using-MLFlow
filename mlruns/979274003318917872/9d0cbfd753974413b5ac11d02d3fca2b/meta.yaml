@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/9d0cbfd753974413b5ac11d02d3fca2b/artifacts
+end_time: 1764007271355
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 9d0cbfd753974413b5ac11d02d3fca2b
+run_name: placid-seal-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007271310
+status: 3
+tags: []
+user_id: SOUMEN

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/5aa13eddaa524fe8abc72d8ad8ae29e4/artifacts
+end_time: 1764007271536
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 5aa13eddaa524fe8abc72d8ad8ae29e4
+run_name: omniscient-whale-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007271499
+status: 3
+tags: []
+user_id: SOUMEN

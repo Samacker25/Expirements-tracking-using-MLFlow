@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/3f9a7068a5024d9ab78a89fd3c80b2a6/artifacts
+end_time: 1764006788651
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 3f9a7068a5024d9ab78a89fd3c80b2a6
+run_name: judicious-shark-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764006788624
+status: 3
+tags: []
+user_id: SOUMEN

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/af6a20ad25b647f5893053a72abde3a7/artifacts
+end_time: 1764007271718
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: af6a20ad25b647f5893053a72abde3a7
+run_name: skittish-snake-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007271677
+status: 3
+tags: []
+user_id: SOUMEN

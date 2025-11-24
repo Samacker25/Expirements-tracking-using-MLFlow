@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/59bf70a56a474cbb9f769dd4373bd316/artifacts
+end_time: 1764007272093
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 59bf70a56a474cbb9f769dd4373bd316
+run_name: exultant-gull-232
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007272043
+status: 3
+tags: []
+user_id: SOUMEN

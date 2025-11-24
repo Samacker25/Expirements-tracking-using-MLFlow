@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/6b478aff7cf043918d20527d40e00198/artifacts
+end_time: 1764007111955
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 6b478aff7cf043918d20527d40e00198
+run_name: legendary-shrew-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007107462
+status: 4
+tags: []
+user_id: SOUMEN

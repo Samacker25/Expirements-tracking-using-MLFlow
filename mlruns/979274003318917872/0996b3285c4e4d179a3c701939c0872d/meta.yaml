@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/0996b3285c4e4d179a3c701939c0872d/artifacts
+end_time: 1764007271668
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 0996b3285c4e4d179a3c701939c0872d
+run_name: shivering-colt-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007271628
+status: 3
+tags: []
+user_id: SOUMEN

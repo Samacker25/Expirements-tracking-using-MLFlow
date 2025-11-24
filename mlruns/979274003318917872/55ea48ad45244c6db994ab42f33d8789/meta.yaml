@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/55ea48ad45244c6db994ab42f33d8789/artifacts
+end_time: 1764007271963
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 55ea48ad45244c6db994ab42f33d8789
+run_name: mercurial-crane-439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007271912
+status: 3
+tags: []
+user_id: SOUMEN

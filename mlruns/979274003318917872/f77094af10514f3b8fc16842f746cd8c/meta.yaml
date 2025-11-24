@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/f77094af10514f3b8fc16842f746cd8c/artifacts
+end_time: 1764007271622
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: f77094af10514f3b8fc16842f746cd8c
+run_name: amazing-dog-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764007271585
+status: 3
+tags: []
+user_id: SOUMEN

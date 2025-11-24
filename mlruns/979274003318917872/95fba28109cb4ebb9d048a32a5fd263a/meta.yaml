@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/95fba28109cb4ebb9d048a32a5fd263a/artifacts
+end_time: 1764006788369
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 95fba28109cb4ebb9d048a32a5fd263a
+run_name: skillful-sloth-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764006788341
+status: 3
+tags: []
+user_id: SOUMEN

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/b6630b2d0e2642a39a7565b18efe8495/artifacts
+end_time: 1764006797877
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: b6630b2d0e2642a39a7565b18efe8495
+run_name: burly-whale-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764006784115
+status: 3
+tags: []
+user_id: SOUMEN

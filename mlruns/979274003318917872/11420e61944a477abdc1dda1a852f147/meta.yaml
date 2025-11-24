@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/11420e61944a477abdc1dda1a852f147/artifacts
+end_time: 1764006788495
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 11420e61944a477abdc1dda1a852f147
+run_name: puzzled-yak-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764006788467
+status: 3
+tags: []
+user_id: SOUMEN

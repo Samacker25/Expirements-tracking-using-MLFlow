@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/4fb281a5469c41e397fea5f9fba49b47/artifacts
+end_time: 1764006788398
+entry_point_name: ''
+experiment_id: '979274003318917872'
+lifecycle_stage: active
+run_id: 4fb281a5469c41e397fea5f9fba49b47
+run_name: persistent-hawk-169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764006788373
+status: 3
+tags: []
+user_id: SOUMEN

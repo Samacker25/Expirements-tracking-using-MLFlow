@@ -1,0 +1,22 @@
+artifact_path: file:///F:/projects/MLOps/Expirements-tracking-using-MLFlow/mlruns/979274003318917872/models/m-e624bd8f1cc64dc1b2f07a30df78dcf5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.6.0
+model_id: m-e624bd8f1cc64dc1b2f07a30df78dcf5
+model_size_bytes: 317843
+model_uuid: m-e624bd8f1cc64dc1b2f07a30df78dcf5
+prompts: null
+run_id: 4d47a02bc447461789dc643f5eb1726b
+utc_time_created: '2025-11-24 18:01:12.583766'
