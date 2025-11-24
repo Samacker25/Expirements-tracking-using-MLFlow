@@ -27,61 +27,61 @@ param_grid = {
 grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1, verbose=2)
 
 # # Run without MLflow from here
-# grid_search.fit(X_train, y_train)
+grid_search.fit(X_train, y_train)
 
 # # Displaying the best params and best score
-# best_params = grid_search.best_params_
-# best_score = grid_search.best_score_
+best_params = grid_search.best_params_
+best_score = grid_search.best_score_
 
-# print(best_params)
-# print(best_score)
-# # Till here
+print(best_params)
+print(best_score)
 
 
-mlflow.set_experiment('breast-cancer-rf-hp')
 
-with mlflow.start_run() as parent:
-    grid_search.fit(X_train, y_train)
+# mlflow.set_experiment('breast-cancer-rf-hp')
 
-    # log all the child runs
-    for i in range(len(grid_search.cv_results_['params'])):
+# with mlflow.start_run() as parent:
+#     grid_search.fit(X_train, y_train)
 
-        with mlflow.start_run(nested=True) as child:
-            mlflow.log_params(grid_search.cv_results_["params"][i])
-            mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
+#     # log all the child runs
+#     for i in range(len(grid_search.cv_results_['params'])):
 
-    # Displaying the best parameters and the best score
-    best_params = grid_search.best_params_
-    best_score = grid_search.best_score_
+#         with mlflow.start_run(nested=True) as child:
+#             mlflow.log_params(grid_search.cv_results_["params"][i])
+#             mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
 
-    # Log params
-    mlflow.log_params(best_params)
+#     # Displaying the best parameters and the best score
+#     best_params = grid_search.best_params_
+#     best_score = grid_search.best_score_
 
-    # Log metrics
-    mlflow.log_metric("accuracy", best_score)
+#     # Log params
+#     mlflow.log_params(best_params)
 
-    # Log training data
-    train_df = X_train.copy()
-    train_df['target'] = y_train
+#     # Log metrics
+#     mlflow.log_metric("accuracy", best_score)
 
-    train_df = mlflow.data.from_pandas(train_df)
-    mlflow.log_input(train_df, "training")
+#     # Log training data
+#     train_df = X_train.copy()
+#     train_df['target'] = y_train
 
-    # Log test data
-    test_df = X_test.copy()
-    test_df['target'] = y_test
+#     train_df = mlflow.data.from_pandas(train_df)
+#     mlflow.log_input(train_df, "training")
 
-    test_df = mlflow.data.from_pandas(test_df)
-    mlflow.log_input(test_df, "testing")
+#     # Log test data
+#     test_df = X_test.copy()
+#     test_df['target'] = y_test
 
-    # Log source code
-    mlflow.log_artifact(__file__)
+#     test_df = mlflow.data.from_pandas(test_df)
+#     mlflow.log_input(test_df, "testing")
 
-    # Log the best model
-    mlflow.sklearn.log_model(grid_search.best_estimator_, "random_forest")
+#     # Log source code
+#     mlflow.log_artifact(__file__)
 
-    # Set tags
-    mlflow.set_tag("author", "Samacker")
+#     # Log the best model
+#     mlflow.sklearn.log_model(grid_search.best_estimator_, "random_forest")
 
-    print(best_params)
-    print(best_score)
+#     # Set tags
+#     mlflow.set_tag("author", "Samacker")
+
+#     print(best_params)
+#     print(best_score)
